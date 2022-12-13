@@ -49,7 +49,7 @@ public class Itse2417Main
             new FinalProj(),          // Abdo 
             new FinalProj(),          // Adams  
             new FinalProj(),          // Benitez
-            new FinalProj(),          // Butler A
+            new WordPermutations(),   // Butler A
             new FinalProj(),          // Butler K
             new FinalProj(),          // Castaneda
             new FinalProj(),          // Cole
